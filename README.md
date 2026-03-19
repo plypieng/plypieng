@@ -4,6 +4,15 @@ AIoT and embedded systems engineer in Japan, now steering toward ADAS perception
 
 [Homepage](https://plypieng.github.io/) | [LinkedIn](https://www.linkedin.com/in/nantaphon-chimpalee-903726221/) | [Email](mailto:plysd4@hotmail.com)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=plypieng&show_icons=true&hide_border=true&rank_icon=github&title_color=0d627a&icon_color=bf6f3f&text_color=14202a&bg_color=f7f2ea" alt="GitHub stats for plypieng" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plypieng&layout=compact&hide_border=true&title_color=0d627a&text_color=14202a&bg_color=f7f2ea" alt="Top languages for plypieng" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=plypieng&hide_border=true&background=F7F2EA&ring=0D627A&fire=BF6F3F&currStreakLabel=14202A&sideLabels=14202A&dates=51606D&stroke=CFC3B4" alt="GitHub streak for plypieng" />
+</p>
+
 ## Current Focus
 
 - ADAS perception and edge AI deployment
