@@ -67,6 +67,7 @@ Interests: edge AI, perception-adjacent systems, and deployable ML
 </p>
 
 - Rouvis: vertical AI product work with planning, analytics, maps, and conversational guidance
+- Rouvis: vertical AI product work with planning, analytics, maps, and conversational guidance. Featured by [ETSUZAN](https://etsuzan.org/posts/ROUVIS), a Niigata Mitou-style talent development project
 - Ceramic Fracture Lab: simulation-heavy engineering workflow with Python, Godot, and FEM concepts
 - Firebase ESP32 CT Monitor: embedded sensing and remote data collection prototype
 - Interactive Torque Project: industrial data-analysis workflow for torque measurement visualization and pass/fail evaluation
