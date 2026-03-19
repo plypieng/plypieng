@@ -1,15 +1,15 @@
 # Nantaphon (Ply) Chimpalee
 
-AIoT and embedded systems engineer in Japan, now steering toward ADAS perception, edge AI, and autonomy-oriented systems work.
+AIoT and embedded systems engineer in Japan, working across sensing, software, simulation, and applied AI.
 
 [Homepage](https://plypieng.github.io/) | [LinkedIn](https://www.linkedin.com/in/nantaphon-chimpalee-903726221/) | [Email](mailto:plysd4@hotmail.com)
 
 ## Current Direction
 
 ```text
-Now: repositioning toward ADAS perception, edge AI deployment, and autonomy-oriented systems
-Base: embedded sensing, industrial AIoT, hardware-aware software, technical prototyping
-Target environments: Tier IV, Woven, NVIDIA, and similar software-defined mobility teams
+Current work: embedded systems, AIoT, simulation, and technical product development
+Base: sensing, hardware-aware software, industrial AI, and full-stack prototyping
+Interests: edge AI, perception-adjacent systems, and deployable ML
 ```
 
 <p align="center">
@@ -23,7 +23,7 @@ Target environments: Tier IV, Woven, NVIDIA, and similar software-defined mobili
 
 ## Current Focus
 
-- ADAS perception and edge AI deployment
+- Edge AI and deployable ML
 - Embedded systems, sensing, and hardware-aware ML
 - Simulation and product prototyping for high-constraint environments
 
@@ -31,10 +31,10 @@ Target environments: Tier IV, Woven, NVIDIA, and similar software-defined mobili
 
 | Area | Current Position |
 | --- | --- |
-| Moving toward | ADAS perception, edge AI, autonomy systems, deployable ML |
-| Strong base | Embedded systems, industrial sensing, AIoT, full-stack prototyping |
-| Working style | Hardware-aware, constraint-driven, end-to-end system thinking |
-| Interested in | ROS 2, perception pipelines, simulation-heavy development, software-defined mobility |
+| Current work | Embedded systems, industrial sensing, AIoT, applied AI |
+| Strong base | Hardware-aware software, prototyping, end-to-end system building |
+| Working style | Constraint-driven, practical, system-level thinking |
+| Interested in | Edge AI, simulation-heavy development, perception-adjacent systems |
 
 ## Background
 
@@ -68,4 +68,4 @@ Target environments: Tier IV, Woven, NVIDIA, and similar software-defined mobili
 
 ## Looking Toward
 
-I am intentionally bending my work toward software-defined mobility, perception systems, and deployable AI on constrained platforms. Long term, I want to contribute where hardware constraints, real-time systems, and modern ML meet.
+I enjoy working where hardware constraints, real-time behavior, and modern software systems meet. Long term, I want to keep building practical systems that connect embedded engineering with applied AI.
