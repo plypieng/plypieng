@@ -60,10 +60,16 @@ Interests: edge AI, perception-adjacent systems, and deployable ML
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=plypieng&repo=built-a-boat-to-kill-mf&hide_border=true&title_color=0d627a&text_color=14202a&icon_color=bf6f3f&bg_color=f7f2ea" alt="Built a Boat repo card" />
   </a>
 </p>
+<p>
+  <a href="https://github.com/plypieng/InteractiveTorqueProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=plypieng&repo=InteractiveTorqueProject&hide_border=true&title_color=0d627a&text_color=14202a&icon_color=bf6f3f&bg_color=f7f2ea" alt="Interactive Torque Project repo card" />
+  </a>
+</p>
 
 - Rouvis: vertical AI product work with planning, analytics, maps, and conversational guidance
 - Ceramic Fracture Lab: simulation-heavy engineering workflow with Python, Godot, and FEM concepts
 - Firebase ESP32 CT Monitor: embedded sensing and remote data collection prototype
+- Interactive Torque Project: industrial data-analysis workflow for torque measurement visualization and pass/fail evaluation
 - Built a Boat: systems-heavy multiplayer prototype with authoritative runtime logic
 
 ## Looking Toward
