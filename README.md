@@ -4,6 +4,14 @@ AIoT and embedded systems engineer in Japan, now steering toward ADAS perception
 
 [Homepage](https://plypieng.github.io/) | [LinkedIn](https://www.linkedin.com/in/nantaphon-chimpalee-903726221/) | [Email](mailto:plysd4@hotmail.com)
 
+## Current Direction
+
+```text
+Now: repositioning toward ADAS perception, edge AI deployment, and autonomy-oriented systems
+Base: embedded sensing, industrial AIoT, hardware-aware software, technical prototyping
+Target environments: Tier IV, Woven, NVIDIA, and similar software-defined mobility teams
+```
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=plypieng&show_icons=true&hide_border=true&rank_icon=github&title_color=0d627a&icon_color=bf6f3f&text_color=14202a&bg_color=f7f2ea" alt="GitHub stats for plypieng" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plypieng&layout=compact&hide_border=true&title_color=0d627a&text_color=14202a&bg_color=f7f2ea" alt="Top languages for plypieng" height="170" />
@@ -19,6 +27,15 @@ AIoT and embedded systems engineer in Japan, now steering toward ADAS perception
 - Embedded systems, sensing, and hardware-aware ML
 - Simulation and product prototyping for high-constraint environments
 
+## Tech Radar
+
+| Area | Current Position |
+| --- | --- |
+| Moving toward | ADAS perception, edge AI, autonomy systems, deployable ML |
+| Strong base | Embedded systems, industrial sensing, AIoT, full-stack prototyping |
+| Working style | Hardware-aware, constraint-driven, end-to-end system thinking |
+| Interested in | ROS 2, perception pipelines, simulation-heavy development, software-defined mobility |
+
 ## Background
 
 - 3 years of industry experience in Japanese manufacturing across industrial IoT, sensing, and applied AI
@@ -27,16 +44,27 @@ AIoT and embedded systems engineer in Japan, now steering toward ADAS perception
 
 ## Selected Work
 
-- [Rouvis](https://github.com/plypieng/rouvis-web)  
-  AI farm planning workspace combining maps, analytics, and conversational guidance.
-- [Ceramic Fracture Lab](https://github.com/plypieng/ceramic-fracture-lab)  
-  Python and Godot-based fracture simulation toolkit with FEM workflows.
-- [Firebase ESP32 CT Monitor](https://github.com/plypieng/Firebase-esp32-CTmonitor)  
-  Embedded current-transformer monitoring prototype using ESP32 and Firebase.
-- [Built a Boat](https://github.com/plypieng/built-a-boat-to-kill-mf)  
-  Authoritative multiplayer Godot prototype for a co-op extraction game.
-- [Homepage Source](https://github.com/plypieng/plypieng.github.io)  
-  Astro-based GitHub Pages portfolio site.
+<p>
+  <a href="https://github.com/plypieng/rouvis-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=plypieng&repo=rouvis-web&hide_border=true&title_color=0d627a&text_color=14202a&icon_color=bf6f3f&bg_color=f7f2ea" alt="Rouvis repo card" />
+  </a>
+  <a href="https://github.com/plypieng/ceramic-fracture-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=plypieng&repo=ceramic-fracture-lab&hide_border=true&title_color=0d627a&text_color=14202a&icon_color=bf6f3f&bg_color=f7f2ea" alt="Ceramic Fracture Lab repo card" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/plypieng/Firebase-esp32-CTmonitor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=plypieng&repo=Firebase-esp32-CTmonitor&hide_border=true&title_color=0d627a&text_color=14202a&icon_color=bf6f3f&bg_color=f7f2ea" alt="Firebase ESP32 CT Monitor repo card" />
+  </a>
+  <a href="https://github.com/plypieng/built-a-boat-to-kill-mf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=plypieng&repo=built-a-boat-to-kill-mf&hide_border=true&title_color=0d627a&text_color=14202a&icon_color=bf6f3f&bg_color=f7f2ea" alt="Built a Boat repo card" />
+  </a>
+</p>
+
+- Rouvis: vertical AI product work with planning, analytics, maps, and conversational guidance
+- Ceramic Fracture Lab: simulation-heavy engineering workflow with Python, Godot, and FEM concepts
+- Firebase ESP32 CT Monitor: embedded sensing and remote data collection prototype
+- Built a Boat: systems-heavy multiplayer prototype with authoritative runtime logic
 
 ## Looking Toward
 
