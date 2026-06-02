@@ -8,6 +8,7 @@ I work across sensing, software, simulation, and applied AI. My background combi
 
 ## Focus
 
+- B.Eng. research on reliability-aware KV-cache compression for long-context LLM inference under Prof. Akiko MANADA
 - Embedded systems, sensing, and hardware-aware software
 - Applied AI, data analysis, and practical automation
 - Full-stack prototyping for technical products
@@ -26,6 +27,7 @@ I work across sensing, software, simulation, and applied AI. My background combi
 ## Background
 
 - B.Eng. candidate in Electrical, Electronics and Information Engineering at Nagaoka University of Technology
+- Advisor: Prof. Akiko MANADA
 - Experience in Japanese manufacturing across industrial IoT, sensing, and applied AI
 - Internship experience in AI engineering and automotive hardware architecture
 
