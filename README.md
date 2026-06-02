@@ -1,10 +1,10 @@
 # Nantaphon (Ply) Chimpalee
 
-Embedded systems and applied AI engineer based in Nagaoka, Japan.
+Fourth-year B.Eng. student in Electrical, Electronics and Information Engineering at Nagaoka University of Technology.
 
-I work across sensing, software, simulation, and technical product development. My background combines electrical engineering, manufacturing AIoT, web applications, and prototype systems that connect real-world data with practical tools.
+I work across sensing, software, simulation, and applied AI. My background combines electrical engineering, manufacturing AIoT, web applications, and prototype systems that connect real-world data with practical tools.
 
-[Homepage](https://plypieng.github.io/) | [LinkedIn](https://www.linkedin.com/in/nantaphon-chimpalee-903726221/) | [Email](mailto:plysd4@hotmail.com)
+[Homepage](https://plypieng.github.io/) | [LinkedIn](https://www.linkedin.com/in/nantaphon-chimpalee-903726221/) | [Email](mailto:plysd4@gmail.com)
 
 ## Focus
 
