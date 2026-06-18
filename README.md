@@ -26,8 +26,7 @@ I work across sensing, software, simulation, and applied AI. My background combi
 
 ## Background
 
-- B.Eng. candidate in Electrical, Electronics and Information Engineering at Nagaoka University of Technology
-- Advisor: Prof. Akiko MANADA
+- Electrical, Electronics and Information Engineering at Nagaoka University of Technology
 - Experience in Japanese manufacturing across industrial IoT, sensing, and applied AI
 - Internship experience in AI engineering and automotive hardware architecture
 
