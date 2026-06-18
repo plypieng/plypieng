@@ -8,7 +8,7 @@ I work across sensing, software, simulation, and applied AI. My background combi
 
 ## Focus
 
-- B.Eng. research on reliability-aware KV-cache compression for long-context LLM inference under Prof. Akiko MANADA
+- B.Eng. research on reliability-aware KV-cache compression for long-context LLM inference
 - Embedded systems, sensing, and hardware-aware software
 - Applied AI, data analysis, and practical automation
 - Full-stack prototyping for technical products
